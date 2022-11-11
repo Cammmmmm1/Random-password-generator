@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Random Password Generator S
 ### Usage
 
 This is a Password Generator that generates a secure and safe password for users for current employees/users
