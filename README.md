@@ -1,4 +1,4 @@
-# Random Password Generator S
+# Random Password Generator 
 ### Usage
 
 This is a Password Generator that generates a secure and safe password for users for current employees/users
